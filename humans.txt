@@ -1,0 +1,16 @@
+TEAM
+  RA Fahim — Web Developer & Creator
+  Website: https://rafahim.com
+  GitHub: https://github.com/rafahim
+  Email: dev@rafahim.com
+
+TECHNOLOGY
+  HTML5, CSS3, Vanilla JavaScript, Web APIs
+  No build step, no third-party analytics, no ads
+
+LOCATION
+  Dhaka, Bangladesh
+
+SITE
+  LinkFolio — Free Self-Hosted Link in Bio
+  Copyright 2026 RA Fahim

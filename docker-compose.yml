@@ -1,0 +1,9 @@
+services:
+  linkfolio:
+    image: nginx:alpine
+    container_name: linkfolio
+    ports:
+      - "8080:80"
+    volumes:
+      - ./:/usr/share/nginx/html:ro
+    restart: unless-stopped

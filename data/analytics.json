@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "scope": "local-browser-only",
+  "description": "Starter export only. Static pages cannot write back to this file; click events are kept in localStorage on the visitor's device.",
+  "events": []
+}

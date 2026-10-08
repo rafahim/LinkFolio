@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /linkfolio/
+Disallow: /linkfolio/admin.html
+Sitemap: https://rafahim.com/linkfolio/sitemap.xml

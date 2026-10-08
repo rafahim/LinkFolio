@@ -1,0 +1,46 @@
+{
+  "defaultProfile": "ra-fahim",
+  "site": {
+    "title": "LinkFolio — Free Self-Hosted Link in Bio (Linktree Alternative) | RA Fahim",
+    "canonical": "https://rafahim.com/linkfolio/",
+    "author": "RA Fahim",
+    "keywords": ["link in bio", "linktree alternative", "free link page", "self-hosted linktree"],
+    "description": "A beautiful, free, self-hosted link-in-bio page for RA Fahim. Explore projects, social profiles, and contact links with LinkFolio."
+  },
+  "theme": {
+    "defaultMode": "dark",
+    "accent": "#9a7bff",
+    "accentSecondary": "#5ae0ca",
+    "font": "Inter"
+  },
+  "profiles": {
+    "ra-fahim": {
+      "id": "ra-fahim",
+      "name": "RA Fahim",
+      "handle": "@rafahim",
+      "avatar": "",
+      "location": { "en": "Dhaka, Bangladesh", "bn": "ঢাকা, বাংলাদেশ" },
+      "bio": {
+        "en": "Web Developer & Creator building useful things for the web.",
+        "bn": "ওয়েব ডেভেলপার ও ক্রিয়েটর — ওয়েবের জন্য দরকারি জিনিস তৈরি করি।"
+      },
+      "tags": ["Full-stack", "Web Developer", "Creator", "1 year experience"],
+      "email": "dev@rafahim.com",
+      "experience": "1 year",
+      "youtubeVideoId": "",
+      "newsletter": {
+        "enabled": true,
+        "title": { "en": "A little signal, less noise.", "bn": "কম শব্দ, দরকারি আপডেট।" },
+        "description": { "en": "Get updates from me, only when there's something worth sharing.", "bn": "শেয়ার করার মতো কিছু থাকলেই শুধু আপডেট পান।" },
+        "email": "dev@rafahim.com"
+      },
+      "links": [
+        { "id": "website", "title": "Personal Website", "titleBn": "ব্যক্তিগত ওয়েবসাইট", "url": "https://rafahim.com", "description": "Projects, notes, and more", "descriptionBn": "প্রজেক্ট, নোট এবং আরও অনেক কিছু", "enabled": true },
+        { "id": "github", "title": "GitHub", "url": "https://github.com/rafahim", "description": "Code, experiments, and open source", "descriptionBn": "কোড, এক্সপেরিমেন্ট ও ওপেন সোর্স", "enabled": true },
+        { "id": "linkedin", "title": "LinkedIn", "url": "https://linkedin.com/in/rafahimn", "description": "Professional updates and connections", "descriptionBn": "কাজের আপডেট ও পেশাগত যোগাযোগ", "enabled": true },
+        { "id": "twitter", "title": "Twitter / X", "url": "https://twitter.com/rafahimn", "description": "Thoughts from the build journey", "descriptionBn": "কাজের পথে আমার ভাবনা", "enabled": true },
+        { "id": "email", "title": "Email me", "url": "mailto:dev@rafahim.com", "description": "Questions, ideas, or collaborations", "descriptionBn": "প্রশ্ন, আইডিয়া বা একসঙ্গে কাজ", "enabled": true }
+      ]
+    }
+  }
+}

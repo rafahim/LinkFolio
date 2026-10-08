@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.log
+LinkFolio.zip
+node_modules/
+.env
